@@ -1,5 +1,25 @@
-﻿{
-    "min_version":     "24.03.22",
-    "current_version": "24.03.22",
-    "maintenance_mode": false
+{
+  "min_version": "24.03.22",
+  "current_version": "24.03.22",
+  "maintenance_mode": false,
+  "ad_inline_banners": [
+    {
+      "ad_unit_id": "R-M-7773472-2",
+      "name": "calendar",
+      "enabled": true,
+      "max_height": 100
+    },
+    {
+      "ad_unit_id": "R-M-7773472-3",
+      "name": "analytics",
+      "enabled": true,
+      "max_height": 100
+    },
+    {
+      "ad_unit_id":  "R-M-7773472-4",
+      "name": "profile",
+      "enabled": true,
+      "max_height": 250
+    }
+  ]
 }
