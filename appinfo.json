@@ -48,19 +48,19 @@
   },
   "ad_inline_banners": [
     {
-      "ad_unit_id": "demo-banner-yandex",
+      "ad_unit_id": "R-M-7773472-2",
       "name": "calendar",
       "enabled": true,
       "max_height": 100
     },
     {
-      "ad_unit_id": "demo-banner-yandex",
+      "ad_unit_id": "R-M-7773472-3",
       "name": "analytics",
       "enabled": true,
       "max_height": 100
     },
     {
-      "ad_unit_id":  "demo-banner-yandex",
+      "ad_unit_id":  "R-M-7773472-4",
       "name": "profile",
       "enabled": true,
       "max_height": 250
