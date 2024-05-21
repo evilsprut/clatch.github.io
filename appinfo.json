@@ -4,7 +4,7 @@
   "maintenance_mode": false,
   "platform_info_list": [
     {
-      "platform": "android",
+      "platform_type": "android",
       "ad_inline_banners": [
         {
           "ad_unit_id": "R-M-7773472-2",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "platform": "ios",
+      "platform_type": "ios",
       "ad_inline_banners": [
         {
           "ad_unit_id": "R-M-8695127-1",
