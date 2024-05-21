@@ -2,50 +2,54 @@
   "min_version": "24.03.22",
   "current_version": "24.03.22",
   "maintenance_mode": false,
-  "android": {
-    "ad_inline_banners": [
-      {
-        "ad_unit_id": "R-M-7773472-2",
-        "name": "calendar",
-        "enabled": true,
-        "max_height": 100
-      },
-      {
-        "ad_unit_id": "R-M-7773472-3",
-        "name": "analytics",
-        "enabled": true,
-        "max_height": 100
-      },
-      {
-        "ad_unit_id":  "R-M-7773472-4",
-        "name": "profile",
-        "enabled": true,
-        "max_height": 250
-      }
-    ]
-  },
-  "ios": {
-    "ad_inline_banners": [
-      {
-        "ad_unit_id": "R-M-8695127-1",
-        "name": "calendar",
-        "enabled": true,
-        "max_height": 100
-      },
-      {
-        "ad_unit_id": "R-M-8695127-2",
-        "name": "analytics",
-        "enabled": true,
-        "max_height": 100
-      },
-      {
-        "ad_unit_id":  "R-M-8695127-3",
-        "name": "profile",
-        "enabled": true,
-        "max_height": 250
-      }
-    ]
-  },
+  "platform_info_list": [
+    {
+      "platform": "android",
+      "ad_inline_banners": [
+        {
+          "ad_unit_id": "R-M-7773472-2",
+          "name": "calendar",
+          "enabled": true,
+          "max_height": 100
+        },
+        {
+          "ad_unit_id": "R-M-7773472-3",
+          "name": "analytics",
+          "enabled": true,
+          "max_height": 100
+        },
+        {
+          "ad_unit_id":  "R-M-7773472-4",
+          "name": "profile",
+          "enabled": true,
+          "max_height": 250
+        }
+      ]
+    },
+    {
+      "platform": "ios",
+      "ad_inline_banners": [
+        {
+          "ad_unit_id": "R-M-8695127-1",
+          "name": "calendar",
+          "enabled": true,
+          "max_height": 100
+        },
+        {
+          "ad_unit_id": "R-M-8695127-2",
+          "name": "analytics",
+          "enabled": true,
+          "max_height": 100
+        },
+        {
+          "ad_unit_id":  "R-M-8695127-3",
+          "name": "profile",
+          "enabled": true,
+          "max_height": 250
+        }
+      ]
+    }
+  ],
   "ad_inline_banners": [
     {
       "ad_unit_id": "R-M-7773472-2",
