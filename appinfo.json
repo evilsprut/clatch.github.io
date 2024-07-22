@@ -8,18 +8,21 @@
       "ad_inline_banners": [
         {
           "ad_unit_id": "R-M-7773472-2",
+          "placement_id": 0,
           "name": "calendar",
           "enabled": true,
           "max_height": 100
         },
         {
           "ad_unit_id": "R-M-7773472-3",
+          "placement_id": 0,
           "name": "analytics",
           "enabled": true,
           "max_height": 100
         },
         {
           "ad_unit_id":  "R-M-7773472-4",
+          "placement_id": 0,
           "name": "profile",
           "enabled": true,
           "max_height": 250
@@ -31,18 +34,21 @@
       "ad_inline_banners": [
         {
           "ad_unit_id": "R-M-8695127-1",
+          "placement_id": 0,
           "name": "calendar",
           "enabled": true,
           "max_height": 100
         },
         {
           "ad_unit_id": "R-M-8695127-2",
+          "placement_id": 0,
           "name": "analytics",
           "enabled": true,
           "max_height": 100
         },
         {
           "ad_unit_id":  "R-M-8695127-3",
+          "placement_id": 0,
           "name": "profile",
           "enabled": true,
           "max_height": 250
